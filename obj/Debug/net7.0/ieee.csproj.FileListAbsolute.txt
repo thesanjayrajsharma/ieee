@@ -1,0 +1,15 @@
+C:\Users\sanjay.raj\Desktop\ieee\bin\Debug\net7.0\ieee.exe
+C:\Users\sanjay.raj\Desktop\ieee\bin\Debug\net7.0\ieee.deps.json
+C:\Users\sanjay.raj\Desktop\ieee\bin\Debug\net7.0\ieee.runtimeconfig.json
+C:\Users\sanjay.raj\Desktop\ieee\bin\Debug\net7.0\ieee.dll
+C:\Users\sanjay.raj\Desktop\ieee\bin\Debug\net7.0\ieee.pdb
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.csproj.AssemblyReference.cache
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.AssemblyInfoInputs.cache
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.AssemblyInfo.cs
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.csproj.CoreCompileInputs.cache
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.dll
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\refint\ieee.dll
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.pdb
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ieee.genruntimeconfig.cache
+C:\Users\sanjay.raj\Desktop\ieee\obj\Debug\net7.0\ref\ieee.dll
